@@ -28,24 +28,24 @@ Getting Started with ElasticSearch
 Section: 2
 0 / 4
 Dichotomy of ElasticSearch
-[x] 7. What Is an Index? 2:31
-[x] 8. Documents in ElasticSearch 4:20
-[x] 9. What Is a Cluster? 6:51
-[x] 10. Setting Shards and Replicas 6:30
+[ ] 7. What Is an Index? 2:31
+[ ] 8. Documents in ElasticSearch 4:20
+[ ] 9. What Is a Cluster? 6:51
+[ ] 10. Setting Shards and Replicas 6:30
 
 Section: 3
 0 / 3
 Get Going with Documents and Indices
-[x] 11. Adding and Deleting an Index 8:09
-[x] 12. Adding and Deleting Documents 5:33
-[x] 13. Using Bulk API 8:44
+[ ] 11. Adding and Deleting an Index 8:09
+[ ] 12. Adding and Deleting Documents 5:33
+[ ] 13. Using Bulk API 8:44
 
 Section: 4
 0 / 3
 Querying with RESTful API
-[x] 14. Introduction to REST API 3:21
-[x] 15. Using REST API to Search 6:34
-[x] 16. Using REST API to Update 6:39
+[ ] 14. Introduction to REST API 3:21
+[ ] 15. Using REST API to Search 6:34
+[ ] 16. Using REST API to Update 6:39
 
 Section: 5
 0 / 7
